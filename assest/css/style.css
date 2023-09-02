@@ -472,5 +472,17 @@ footer .footer-copyright {
     .subContent .line1 a {
         font-size: 18px;
     }
+    .sliderItem .boxContent {
+        padding: 20px;
+    }
+    .slidebtn {
+        transform: scale(0.6);
+    }
+    .sliderItem .boxContent .leftside .subContent {
+        width: 86%;
+        left: 7%;
+        top: 64%;
+        padding: 10px;
+    }
 }
 
